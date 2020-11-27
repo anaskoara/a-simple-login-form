@@ -1,6 +1,3 @@
-// Example of Splash, Login and Sign Up in React Native
-// https://aboutreact.com/react-native-login-and-signup/
-
 // Import React and Component
 import React, {useState, createRef} from 'react';
 import {
@@ -98,7 +95,7 @@ const LoginScreen = ({navigation}) => {
           <KeyboardAvoidingView enabled>
             <View style={{alignItems: 'center'}}>
               <Image
-                source={require('../Image/aboutreact.png')}
+                source={require('../Image/success.png')}
                 style={{
                   width: '50%',
                   height: 100,
