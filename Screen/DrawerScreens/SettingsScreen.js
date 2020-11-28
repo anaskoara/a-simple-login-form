@@ -36,7 +36,7 @@ const SettingsScreen = () => {
             textAlign: 'center',
             color: 'grey',
           }}>
-          www.aboutreact.com
+          ------------------
         </Text>
       </View>
     </SafeAreaView>
